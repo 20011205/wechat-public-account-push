@@ -4,13 +4,13 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "不知道",
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "哈哈哈",
     // 模板消息id
     TEMPLATE_ID: "",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    USERS: [""],
+    USERS: ["guy20011205"],
      
     /**
      * 信息配置
@@ -21,7 +21,7 @@ export const config = {
     // 所在省份
     PROVINCE: "广东",
     // 所在城市
-    CITY: "惠州",
+    CITY: "广州",
 
     /** 生日相关 */
 
@@ -43,7 +43,7 @@ export const config = {
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: ""
+    LITERARY_PREFERENCE: "看 https://www.zcool.com.cn/article/ZMTAwNjY3Mg==.html"
 
 
     }
